@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Galaxy-Travel/static/css/main.61c81ac6.css",
-    "main.js": "/Galaxy-Travel/static/js/main.dd2f438c.js",
-    "static/media/space.mp4": "/Galaxy-Travel/static/media/space.41584ed51700d249bf73.mp4",
-    "static/media/heroImg.jpg": "/Galaxy-Travel/static/media/heroImg.717ecc48caf23ce480de.jpg",
-    "static/media/moon.jpg": "/Galaxy-Travel/static/media/moon.91396c73f099b0f6971b.jpg",
-    "static/media/haha": "/Galaxy-Travel/static/media/haha.d897be5ddb84f64a449a",
-    "static/media/pod.jpg": "/Galaxy-Travel/static/media/pod.30776f82b7df80237211.jpg",
-    "index.html": "/Galaxy-Travel/index.html",
-    "main.61c81ac6.css.map": "/Galaxy-Travel/static/css/main.61c81ac6.css.map",
-    "main.dd2f438c.js.map": "/Galaxy-Travel/static/js/main.dd2f438c.js.map"
+    "main.css": "/static/css/main.a2823d4a.css",
+    "main.js": "/static/js/main.7c84e2b4.js",
+    "static/media/space.mp4": "/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/heroImg.jpg": "/static/media/heroImg.717ecc48caf23ce480de.jpg",
+    "static/media/moon.jpg": "/static/media/moon.91396c73f099b0f6971b.jpg",
+    "static/media/haha": "/static/media/haha.d897be5ddb84f64a449a",
+    "static/media/pod.jpg": "/static/media/pod.30776f82b7df80237211.jpg",
+    "index.html": "/index.html",
+    "main.a2823d4a.css.map": "/static/css/main.a2823d4a.css.map",
+    "main.7c84e2b4.js.map": "/static/js/main.7c84e2b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.61c81ac6.css",
-    "static/js/main.dd2f438c.js"
+    "static/css/main.a2823d4a.css",
+    "static/js/main.7c84e2b4.js"
   ]
 }
